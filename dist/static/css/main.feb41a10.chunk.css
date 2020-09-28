@@ -1,0 +1,2 @@
+.image-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(350px,1fr));grid-gap:0;grid-auto-rows:auto}.image-list img{width:350px;grid-row-end:span 2;box-shadow:6px 0 9px -5px rgba(0,0,0,.41);margin-bottom:0;padding-bottom:0}.image-list p{width:350px;flex-wrap:wrap;z-index:1000;padding:10px 5px;margin-top:-6px;box-shadow:6px 3px 9px -5px rgba(0,0,0,.41);text-align:center}.image-card{margin-bottom:10px}
+/*# sourceMappingURL=main.feb41a10.chunk.css.map */
